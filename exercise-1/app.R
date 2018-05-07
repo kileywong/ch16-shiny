@@ -23,7 +23,7 @@ new <- fluidPage(
   ),
   
   # Another paragraph about a slider: include some `em` text
-  p("I can't wait to get", em("sliders"), "like these to work."),
+  p("WOW this", em("slider"), "actually works!"),
   
   # A slider with an appropriate label, min of 10, max of 100, value of 50  
   sliderInput(
